@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/Literature/yxwminiSTL/build/src",
+  "command": "F:\\SystemEnvironment\\MinGW\\bin\\g++.exe   -g -std=c++2a -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\test.dir\\main.cpp.obj -c F:\\Literature\\yxwminiSTL\\src\\main.cpp",
+  "file": "F:/Literature/yxwminiSTL/src/main.cpp",
+  "output": "src/CMakeFiles/test.dir/main.cpp.obj"
+},
+{
+  "directory": "F:/Literature/yxwminiSTL/build/src",
+  "command": "F:\\SystemEnvironment\\MinGW\\bin\\g++.exe   -g -std=c++2a -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\test2.dir\\main.cpp.obj -c F:\\Literature\\yxwminiSTL\\src\\main.cpp",
+  "file": "F:/Literature/yxwminiSTL/src/main.cpp",
+  "output": "src/CMakeFiles/test2.dir/main.cpp.obj"
+}
+]

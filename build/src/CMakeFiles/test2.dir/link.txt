@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\test2.dir/objects.a
+F:\SystemEnvironment\MinGW\bin\ar.exe qc CMakeFiles\test2.dir/objects.a @CMakeFiles\test2.dir\objects1.rsp
+F:\SystemEnvironment\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\test2.dir/objects.a -Wl,--no-whole-archive -o test2.exe -Wl,--out-implib,libtest2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test2.dir\linkLibs.rsp
